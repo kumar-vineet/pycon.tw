@@ -5,7 +5,7 @@
 
 This repository serves the website of PyCon TW, Python Conference Taiwan. This project is open source and the license can be found in LICENSE.
 
-## Getting Started
+## Getting Started for Pycon TW
 
 ### Requirements
 
